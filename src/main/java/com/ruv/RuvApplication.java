@@ -8,7 +8,7 @@ public class RuvApplication {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(RuvApplication.class, args);
-		System.out.println("Hello World!");
+		System.out.println("Hello World!!");
 	}
 
 }
